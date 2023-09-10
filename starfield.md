@@ -119,7 +119,7 @@ Legend:
 mod_link - mod_name [version]
 	- file_name
 ```
-- [nexusmods.com/starfield/mods/88](https://www.nexusmods.com/starfield/mods/88) - Cleanfield - A No-Intro Videos And Clean Menu Fix [1.5]
+- [nexusmods.com/starfield/mods/88](https://www.nexusmods.com/starfield/mods/88) - Cleanfield - A No-Intro Videos And Clean Menu Fix [1.6]
 	- Cleanfield.v.1.5-Vortex-88-1-5-1694114751.zip
 - [nexusmods.com/starfield/mods/106](https://www.nexusmods.com/starfield/mods/106) - Starfield Script Extender (SFSE) [0.1.0]
 	- SFSE 0.1.0-106-0-1-0-1693780739.7z
@@ -135,7 +135,7 @@ mod_link - mod_name [version]
 	- 21x9 Loading Screens-562-1-0-1693768888.zip
 - [nexusmods.com/starfield/mods/642](https://www.nexusmods.com/starfield/mods/642) - Further Zoom For 3rd Person [1.0]
 	- 3rd Person Zoom-642-1-0-1693814090.rar
-- [nexusmods.com/starfield/mods/658](https://www.nexusmods.com/starfield/mods/658) - Baka Achievement Enabler (SFSE) [1.3]
+- [nexusmods.com/starfield/mods/658](https://www.nexusmods.com/starfield/mods/658) - Baka Achievement Enabler (SFSE) [1.3.1]
 	- Baka Achievement Enabler-658-1-3-1693926677.rar
 - [nexusmods.com/starfield/mods/773](https://www.nexusmods.com/starfield/mods/773) - StarUI Inventory [1.1]
 	- StarUI Inventory-773-1-1-1694139175.7z
@@ -173,11 +173,15 @@ mod_link - mod_name [version]
 	- NPC Greeting Distance Tweak-1470-bat-1694226087.7z
 - [nexusmods.com/starfield/mods/1545](https://www.nexusmods.com/starfield/mods/1545) - Less Intrusive Scanner [1.0]
 	- Less Intrusive Scanner-1545-1-0-1694263265.zip
-- [nexusmods.com/starfield/mods/1599](https://www.nexusmods.com/starfield/mods/1599) - Baka Kill My Games Folder [1.2]
+- [nexusmods.com/starfield/mods/1599](https://www.nexusmods.com/starfield/mods/1599) - Baka Disable My Games Folder [1.2]
 	- Baka Kill My Games Folder-1599-1-2-1694314229.rar
 - [nexusmods.com/starfield/mods/1603](https://www.nexusmods.com/starfield/mods/1603) - Simultaneous Mouse and Gamepad [1.0.0]
 	- Simultaneous Mouse and Gamepad-1603-1-0-0-1694290197.7z
 - [nexusmods.com/starfield/mods/1644](https://www.nexusmods.com/starfield/mods/1644) - Clearer Galaxy Map [1.1.0]
 	- Clearer Galaxy Map-1644-1-1-0-1694318968.zip
-- [nexusmods.com/starfield/mods/1662](https://www.nexusmods.com/starfield/mods/1662) - Baka Quit Game Fix [1.0]
+- [nexusmods.com/starfield/mods/1662](https://www.nexusmods.com/starfield/mods/1662) - Baka Quit Game Fix [1.1]
 	- Baka Quit Game Fix-1662-1-0-1694316328.rar
+- [nexusmods.com/starfield/mods/1750](https://www.nexusmods.com/starfield/mods/1750) - Baka Quick Full Saves [1.1]
+	- Baka Quick Full Saves-1750-1-0-1694364354.rar
+- [nexusmods.com/starfield/mods/1751](https://www.nexusmods.com/starfield/mods/1751) - Closer followers - Followers stay closer and match your speed [1.0]
+	- Closer Followers-1751-1-0-1694364878.7z
