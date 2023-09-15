@@ -119,11 +119,11 @@ Legend:
 mod_link - mod_name [version]
 	- file_name
 ```
-- [nexusmods.com/starfield/mods/88](https://www.nexusmods.com/starfield/mods/88) - Cleanfield - A No-Intro Videos And Clean Menu Fix [1.6]
-	- Cleanfield.v.1.5-Vortex-88-1-5-1694114751.zip
-- [nexusmods.com/starfield/mods/106](https://www.nexusmods.com/starfield/mods/106) - Starfield Script Extender (SFSE) [0.1.0]
-	- SFSE 0.1.0-106-0-1-0-1693780739.7z
-- [nexusmods.com/starfield/mods/214](https://www.nexusmods.com/starfield/mods/214) - BetterHUD [0.3]
+- [nexusmods.com/starfield/mods/88](https://www.nexusmods.com/starfield/mods/88) - Cleanfield - A No-Intro Videos and Clean Menu Fix [1.7.1]
+	- Cleanfield.v.1.7.1-Vortex-MO2-88-1-7-1-1694535236.zip
+- [nexusmods.com/starfield/mods/106](https://www.nexusmods.com/starfield/mods/106) - Starfield Script Extender (SFSE) [0.1.2]
+	- SFSE-106-0-1-2-1694730447.7z
+- [nexusmods.com/starfield/mods/214](https://www.nexusmods.com/starfield/mods/214) - BetterHUD - Immersive and Dynamic - User Configurable [0.3]
 	- BetterHUD - Location and XP-214-0-3-1693575029.7z
 - [nexusmods.com/starfield/mods/404](https://www.nexusmods.com/starfield/mods/404) - Undelayed Menus [1.0.5]
 	- Undelayed Menu - Latest Version-404-1-0-5-1694270938.zip
@@ -135,16 +135,16 @@ mod_link - mod_name [version]
 	- 21x9 Loading Screens-562-1-0-1693768888.zip
 - [nexusmods.com/starfield/mods/642](https://www.nexusmods.com/starfield/mods/642) - Further Zoom For 3rd Person [1.0]
 	- 3rd Person Zoom-642-1-0-1693814090.rar
-- [nexusmods.com/starfield/mods/658](https://www.nexusmods.com/starfield/mods/658) - Baka Achievement Enabler (SFSE) [1.3.1]
-	- Baka Achievement Enabler-658-1-3-1693926677.rar
-- [nexusmods.com/starfield/mods/773](https://www.nexusmods.com/starfield/mods/773) - StarUI Inventory [1.1]
-	- StarUI Inventory-773-1-1-1694139175.7z
+- [nexusmods.com/starfield/mods/658](https://www.nexusmods.com/starfield/mods/658) - Baka Achievement Enabler (SFSE) [1.4.1]
+	- Baka Achievement Enabler-658-1-4-1-1694660382.rar
+- [nexusmods.com/starfield/mods/773](https://www.nexusmods.com/starfield/mods/773) - StarUI Inventory [2.1]
+	- StarUI Inventory-773-2-1-1694739455.7z
 - [nexusmods.com/starfield/mods/794](https://www.nexusmods.com/starfield/mods/794) - More Zoom Increments For 3rd Person [1.0]
 	- More Increments For 3rd Person Zoom-794-1-0-1693897835.rar
-- [nexusmods.com/starfield/mods/861](https://www.nexusmods.com/starfield/mods/861) - Dark Mode for Terminals [1.3.0]
-	- Dark Mode for Terminals-861-1-3-0-1694116582.zip
-- [nexusmods.com/starfield/mods/884](https://www.nexusmods.com/starfield/mods/884) - Sprint Stuttering Fix [1.0]
-	- Sprint Stuttering Fix-884-1-0-1694115782.zip
+- [nexusmods.com/starfield/mods/861](https://www.nexusmods.com/starfield/mods/861) - Dark Mode for Terminals [1.4.0]
+	- Dark Mode for Terminals-861-1-4-0-1694453930.zip
+- [nexusmods.com/starfield/mods/884](https://www.nexusmods.com/starfield/mods/884) - Sprint Stuttering Fix [1.0.1]
+	- Sprint Stuttering Fix-884-1-0-1-1694673483.zip
 - [nexusmods.com/starfield/mods/885](https://www.nexusmods.com/starfield/mods/885) - More Subtle Scanner Sounds (No High Pitch - Menus UI Interactions - Less Annoying) [1.4.0]
 	- More Subtle Scanner Sounds (1.4.0)-885-1-4-0-1694226439.7z
 - [nexusmods.com/starfield/mods/914](https://www.nexusmods.com/starfield/mods/914) - Immersive Shell Casings [1.1]
@@ -157,31 +157,37 @@ mod_link - mod_name [version]
 	- Better Mines-1185-1-0-0-1694081374.zip
 - [nexusmods.com/starfield/mods/1223](https://www.nexusmods.com/starfield/mods/1223) - Better Dialogue Controls [1.2.1]
 	- Better Dialogue Controls - No Confirmation-1223-1-2-1-1694325213.zip
-- [nexusmods.com/starfield/mods/1246](https://www.nexusmods.com/starfield/mods/1246) - NO CAPS [1.0.0]
-	- NOCAPS-1246-1-0-1-1694293220.zip
-- [nexusmods.com/starfield/mods/1251](https://www.nexusmods.com/starfield/mods/1251) - Better 3rd Person Flight Camera [1.2]
-	- FlightCamera1.2-1251-1-2-1694216220.zip
-- [nexusmods.com/starfield/mods/1251](https://www.nexusmods.com/starfield/mods/1251) - Better 3rd Person Flight Camera [1.2]
+- [nexusmods.com/starfield/mods/1246](https://www.nexusmods.com/starfield/mods/1246) - NO CAPS [1.1.0]
+	- NOCAPS-1246-1-1-0-1694408821.zip
+- [nexusmods.com/starfield/mods/1251](https://www.nexusmods.com/starfield/mods/1251) - Flight Camera [1.4]
+	- FlightCamera1.4-1251-1-4-1694474820.zip
+- [nexusmods.com/starfield/mods/1251](https://www.nexusmods.com/starfield/mods/1251) - Better 3rd Person Flight Camera [1.4]
 	- FlightCamera-1251-1-0-1694114170.zip
-- [nexusmods.com/starfield/mods/1277](https://www.nexusmods.com/starfield/mods/1277) - Fast Togglewalk [1.0.0]
+- [nexusmods.com/starfield/mods/1277](https://www.nexusmods.com/starfield/mods/1277) - None [1.0.0]
 	- 1.3x faster-1277-1-2-0-1694167230.zip
-- [nexusmods.com/starfield/mods/1392](https://www.nexusmods.com/starfield/mods/1392) - Improved Combat AI [1.00]
-	- Improved Combat AI-1392-1-00-1694190047.rar
+- [nexusmods.com/starfield/mods/1392](https://www.nexusmods.com/starfield/mods/1392) - Improved Combat AI [1.01]
+	- Improved Combat AI-1392-1-01-1694613745.rar
 - [nexusmods.com/starfield/mods/1445](https://www.nexusmods.com/starfield/mods/1445) - Turn off dialogue camera light [1.0]
 	- StarfieldCustom.ini-1445-1-0-1694213591.zip
-- [nexusmods.com/starfield/mods/1470](https://www.nexusmods.com/starfield/mods/1470) - NPC Greeting Distance Tweak [bat]
+- [nexusmods.com/starfield/mods/1470](https://www.nexusmods.com/starfield/mods/1470) - Reduced NPC Greetings - NPC Greeting Distance Tweak [bat]
 	- NPC Greeting Distance Tweak-1470-bat-1694226087.7z
 - [nexusmods.com/starfield/mods/1545](https://www.nexusmods.com/starfield/mods/1545) - Less Intrusive Scanner [1.0]
 	- Less Intrusive Scanner-1545-1-0-1694263265.zip
-- [nexusmods.com/starfield/mods/1599](https://www.nexusmods.com/starfield/mods/1599) - Baka Disable My Games Folder [1.2]
-	- Baka Kill My Games Folder-1599-1-2-1694314229.rar
-- [nexusmods.com/starfield/mods/1603](https://www.nexusmods.com/starfield/mods/1603) - Simultaneous Mouse and Gamepad [1.0.0]
-	- Simultaneous Mouse and Gamepad-1603-1-0-0-1694290197.7z
-- [nexusmods.com/starfield/mods/1644](https://www.nexusmods.com/starfield/mods/1644) - Clearer Galaxy Map [1.1.0]
-	- Clearer Galaxy Map-1644-1-1-0-1694318968.zip
-- [nexusmods.com/starfield/mods/1662](https://www.nexusmods.com/starfield/mods/1662) - Baka Quit Game Fix [1.1]
-	- Baka Quit Game Fix-1662-1-0-1694316328.rar
-- [nexusmods.com/starfield/mods/1750](https://www.nexusmods.com/starfield/mods/1750) - Baka Quick Full Saves [1.1]
-	- Baka Quick Full Saves-1750-1-0-1694364354.rar
-- [nexusmods.com/starfield/mods/1751](https://www.nexusmods.com/starfield/mods/1751) - Closer followers - Followers stay closer and match your speed [1.0]
+- [nexusmods.com/starfield/mods/1599](https://www.nexusmods.com/starfield/mods/1599) - Baka Disable My Games Folder [1.3.0]
+	- Baka Disable My Games Folder-1599-1-3-0-1694662623.rar
+- [nexusmods.com/starfield/mods/1603](https://www.nexusmods.com/starfield/mods/1603) - Simultaneous Mouse and Gamepad [1.0.1]
+	- Simultaneous Mouse and Gamepad-1603-1-0-1-1694686889.7z
+- [nexusmods.com/starfield/mods/1644](https://www.nexusmods.com/starfield/mods/1644) - Clearer Galaxy Map [1.2.0]
+	- Clearer Galaxy Map (FOMOD)-1644-1-2-0-1694574625.7z
+- [nexusmods.com/starfield/mods/1662](https://www.nexusmods.com/starfield/mods/1662) - Baka Quit Game Fix [1.2.0]
+	- Baka Quit Game Fix-1662-1-2-0-1694664318.rar
+- [nexusmods.com/starfield/mods/1750](https://www.nexusmods.com/starfield/mods/1750) - Baka Quick Full Saves [1.2.0]
+	- Baka Quick Full Saves-1750-1-2-0-1694663616.rar
+- [nexusmods.com/starfield/mods/1751](https://www.nexusmods.com/starfield/mods/1751) - Closer followers - Followers stay closer and match your speed [1.1]
 	- Closer Followers-1751-1-0-1694364878.7z
+- [nexusmods.com/starfield/mods/1809](https://www.nexusmods.com/starfield/mods/1809) - Reduced NPC Greetings [1.0]
+	- Reduced NPC Greetings (StarfieldCustom.ini)-1809-1-0-1694383601.zip
+- [nexusmods.com/starfield/mods/2097](https://www.nexusmods.com/starfield/mods/2097) - Supervisor Lin Cleanface [1]
+	- SupervisorLin_Cleanface-2097-1-1694514204.zip
+- [nexusmods.com/starfield/mods/2203](https://www.nexusmods.com/starfield/mods/2203) - Better BoostPack Flight [.01]
+	- Better BoostPack Flight Core-2203--3-1694584589.zip
